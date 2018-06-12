@@ -1,1 +1,27 @@
-/* 書く気がないのでそのうち書く */
+body {
+  background-color: #FFFFFF;
+  line-height: 1.8em
+}
+
+header {
+  width: 800px;
+  margin-bottom: 2em;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+div.content {
+  width: 800px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.label {
+  font-weight: bold;
+}
