@@ -1,0 +1,89 @@
+==================================================================
+https://keybase.io/64g806
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nishimago.me
+  * I am 64g806 (https://keybase.io/64g806) on keybase.
+  * I have a public key with fingerprint A366 0931 CDC2 6F7A 4720  6BC4 7E5A 0DB2 786F 09B1
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120023bc49bce7144e39f2bff02d74a53182d4ac3c4c0310de2e437dec142581e3b0a",
+      "fingerprint": "a3660931cdc26f7a47206bc47e5a0db2786f09b1",
+      "host": "keybase.io",
+      "key_id": "7e5a0db2786f09b1",
+      "kid": "010132f4d1a8216fbbb316738ad110d50a05cfa1b34012cb6e2af4c528f6b1d1e0370a",
+      "uid": "b6fd648ba60492c0e00010df8f22b419",
+      "username": "64g806"
+    },
+    "merkle_root": {
+      "ctime": 1529066574,
+      "hash_meta": "038ab18d6161ede77b72cacba2eab2a900f16492374d5acc1b52ba84aa84946e",
+      "seqno": 3081496
+    },
+    "revoke": {
+      "sig_ids": [
+        "b2480ecc503cac637544ac022d425a109faa776158cf3b2dc5d2d9addad5a5400f"
+      ]
+    },
+    "service": {
+      "hostname": "nishimago.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1529066582,
+  "expire_in": 157680000,
+  "prev": "9a0cf473ef6d4663773dd6497d00b515f4f3abdee9f09c07f077ad4e002af930",
+  "seqno": 23,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.77
+Comment: https://keybase.io/crypto
+
+yMP/AnicbVNrbBRVGN2Wora1BUS0ILYwIkVDy507d+7MrNBQIC6vIJK0REpZ72t2
+l7Y7ZWf7SlmKBBTlodAiakMiGmoCEh5BUIKCiKBgQNQSCNoIwQKtEQiPLEXFOw3E
+xPhjMpk75zvnfOf77qGsPr6MlEVzsnbWO+k7Uo4djNf4yp7aVdqoUIc3KP5GpUL0
+vkQlF248WBHhil8BKgQAapQhizJhqAgJzbIhtW0AuYGIrqkm5IgwjSEGNBVwAQXS
+DC6YiqBuqkKjgCijFTsSDYlYdSwSjUtaomEMLE1lnEFsGwQZEGApYgidAE6hYWIb
+WFSVhWHH9SqkOUpcURhx5Jn8CPba+x/8fd9A1aCNuEpMqGKbUqqp2NBMwlVpUgcE
+6MwmKtWQbJFRLCCxEdOhaWOqclUAzej1XdNLR7HNMTIpwQBZkAEBgFTgtmlDSJFq
+eUBXxKKkSkg0RiETYCUxWqkSsYpKEYw5TtyLlsUjHkDVoQUw1g0k2yNuOFgl4sQz
+Le1R1eRYxargwjCoARlhlEBBKCQWALaKpb5mIK4TxlSqQ0pMRORjISykC1csiDqK
+XwOmiiwsHcRErVMhPHE3EpKhuYq/TKEQmUAwpgNN8mPN0JEcIYByklAnKrBsQgwD
+q7rJbI1CznQOuUU4J1JXR9KHUp7wxGK1EdZL7k3pXvfRiBuOVJGQU1jlOaqOOXGH
+OZXyTzger3b9Xi7xhmoPWido8B5JkEaiXO6IrKgVMTfiRGVOEvmfyEw4WhH11ZGY
+CEY8hG5gU84CeDqiVlJaBDAbGZqwMUdYtmZoXI7OMjgAVFd1G9kaoVwISy4MA4YN
+DINwJAcqF8DSwL8ZQk36JCHJKZOLknhNTCiJg1/OTfOlZPge6JvqXR5fRnr/+1fq
+0PF+dzk/m6x7df3BB2Ycz92wpeXneVXXx+2PO3++fvsxtnoz/+RyRsHKt+pHtV54
+sW+ys3F4Z8HgtW1TgyuOtxQnnhs787WzqX83b9+ysO7yAMe4s2h68ffhjKM5ixKr
+y4eNaUO+zL0zB46/0sOa1g3N27kb9XSjyvaePSUpz5ws1kLZV9KK6m7PTXYtW3+6
+/cIXuacbiorObTs3ZMHultLPR84/lixKD9+BF4cHtm67rgSG3Or/we+ds8Nbr9Ru
+B28vPpTV0TO4a49+Eq+dumHwhgEnh9XUnpkeKB/Ub3FH5wuP9rSdGruHXBt5dXl6
+efaNFVvH7Z32uNOadfH2V2dWrEmi3JolORMfBAX735mBJz6c+2PdmEEnhqW2jnLP
+3Hm6zpeec35qIL9t5ZYOcfe30hOj9JfTFpbeQteipOlqSXvz8zT8Uzicef7wk/lJ
+92bN7vQT7+buO5zTNSX7kfcK/vqj6OOvp00bbn64PDDFXzm+pH1g8Ozi7Em+brJz
+R6A80LPaF5ocat60cdmqxOaGWQUbD+iTjlz23/T3+fRcWcuSGZmbkvMb1+V1zVnF
+HpoVPLBvXglMGzE/K/nEiJxLLy3tfvPUrsLo2pzMV8Zsn6zDX/ImbKvXylBHa79U
+/8zC6+f3f3Mkb9m1z5be+Ki8+ejyvj98++t3TcXj12UcNVHThNlD36h4v/nZRPe+
+tsOXsvKZu+ZAW/6UfwA6p/YL
+=bsFi
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/64g806
+
+==================================================================
+
