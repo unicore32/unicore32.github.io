@@ -25,3 +25,11 @@ div.content {
 .label {
   font-weight: bold;
 }
+
+a:link {
+  color: #0000FF;
+}
+
+a:visited {
+  color: #0000FF;
+}
